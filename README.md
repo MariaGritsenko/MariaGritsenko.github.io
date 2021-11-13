@@ -1,2 +1,2 @@
-# MariaGritsenko.github.io
+# Мария Гриценко
 My first project
